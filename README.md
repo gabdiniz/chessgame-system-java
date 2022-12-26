@@ -3,8 +3,7 @@
 ## Chess game with all possible excesses.  
 
 * **Where the Git Bash must be started to run the program**  
-* ...\Documents\NetBeansProjects\Chess System Design\build\classes
-
+* ...\chess-system\bin
 ### Command to run the program in Git Bash:
 ![executar o programa](https://user-images.githubusercontent.com/56207941/75084335-44262b80-54fe-11ea-9ac9-189af0ba6158.PNG)
 
